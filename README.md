@@ -1,2 +1,2 @@
 # IF1014
-Mineração de dados
+Log de atividades da disciplina de Mineração de dados
